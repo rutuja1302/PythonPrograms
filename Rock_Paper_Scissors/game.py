@@ -1,3 +1,8 @@
+#game rules - rock beats scissors
+#             scissor cuts paper
+#             paper beats rock
+# 5 points game 
+#Player1: user Player2:CPU
 
 import random
 
