@@ -5,3 +5,4 @@ Basic Projects in the field of python
 3. Multiplication table - Take a number as an input and print its multiplication table upto 10.
 4. Factorial of a number - This program will take an integer as an input and print it's factorial.
 5. Rock Paper Scissors - Rock paper scissors game between two players(player Vs. computer).
+6. Leap Year - Take a year as an input, ensure it is a 4 digit number. Determine if it is a leap year and print it.
