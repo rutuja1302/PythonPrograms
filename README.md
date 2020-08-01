@@ -6,3 +6,4 @@ Basic Projects in the field of python
 4. Factorial of a number - This program will take an integer as an input and print it's factorial.
 5. Rock Paper Scissors - Rock paper scissors game between two players(player Vs. computer).
 6. Leap Year - Take a year as an input, ensure it is a 4 digit number. Determine if it is a leap year and print it.
+7. Flip Coin and print percentage of Heads and Tails - I/P -> The number of times to flip coin. Ensure it is positive integer. Logic -> Use random function to get value between 0 to 1. If <0.5 then tails or heads. O/P -> Percentage of heads & tails.
