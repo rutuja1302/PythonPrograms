@@ -9,4 +9,4 @@ Basic Projects in the field of python
 7. Flip Coin and print percentage of Heads and Tails - I/P -> The number of times to flip coin. Ensure it is positive integer. Logic -> Use random function to get value between 1 to 10. If <5 then tails or heads. O/P -> Percentage of heads & tails.
 8. List Comprehensions - You are given three integers x, y and z representing the dimensions of a cuboid along with an integer n. Print a list of all possible coordinates given by (i,j,k) on a 3D grid where the sum of i+j+k is not equal to n. Here, 0<=i<=x ,0<=j<=y, 0<=k<=z. 
 9. Reverse a string - Enter a string & the program will reverse it and print it out.
-10.Runner-Up Score - Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given n scores. Store them in a list and find the score of the runner-up.
+10. Runner-Up Score - Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given n scores. Store them in a list and find the score of the runner-up.
