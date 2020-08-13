@@ -12,3 +12,4 @@ Basic Projects in the field of python
 10. Runner-Up Score - Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given n scores. Store them in a list and find the score of the runner-up.
 11. Calculate Days - Consider a team meeting on the first friday of every month(of year 2020). Write a program to figure out what days that would be each month using calendar module.
 12. Anagram detection - Check if two strings are anagram or not. (Anagram example: fried & fired)
+13. Nested Lists - Given the names and grades for each student in a class of N students, store them in a nested list and print the name(s) of any student(s) having the second lowest grade.
