@@ -13,3 +13,4 @@ Basic Projects in the field of python
 11. Calculate Days - Consider a team meeting on the first friday of every month(of year 2020). Write a program to figure out what days that would be each month using calendar module.
 12. Anagram detection - Check if two strings are anagram or not. (Anagram example: fried & fired)
 13. Nested Lists - Given the names and grades for each student in a class of N students, store them in a nested list and print the name(s) of any student(s) having the second lowest grade.
+14. Count Vowels - Enter a string and the program counts the number of vowels in the text.
