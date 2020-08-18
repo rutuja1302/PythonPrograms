@@ -14,4 +14,4 @@ Basic Projects in the field of python
 12. Anagram detection - Check if two strings are anagram or not. (Anagram example: fried & fired)
 13. Nested Lists - Given the names and grades for each student in a class of N students, store them in a nested list and print the name(s) of any student(s) having the second lowest grade.
 14. Count Vowels - Enter a string and the program counts the number of vowels in the text.
-15. The Age Calculator - This program will determine the age or interval between two dates. The calculated age will be displayed in years, months and days.
+15. The Age Calculator - This program will determine the age or interval between two dates. The calculated age will be displayed in years.
