@@ -15,3 +15,4 @@ Basic Projects in the field of python
 13. Nested Lists - Given the names and grades for each student in a class of N students, store them in a nested list and print the name(s) of any student(s) having the second lowest grade.
 14. Count Vowels - Enter a string and the program counts the number of vowels in the text.
 15. The Age Calculator - This program will determine the age or interval between two dates. The calculated age will be displayed in years.
+16. Finding the percentage - The provided code stub will read in a dictionary containing key/value pairs of name:[marks] for a list of students. Print the average of the marks array for the student name provided, showing 2 places after the decimal.
