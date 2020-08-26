@@ -17,3 +17,4 @@ Basic Projects in the field of python
 15. The Age Calculator - This program will determine the age or interval between two dates. The calculated age will be displayed in years.
 16. Finding the percentage - The provided code stub will read in a dictionary containing key/value pairs of name:[marks] for a list of students. Print the average of the marks array for the student name provided, showing 2 places after the decimal.
 17. Lists Commands- Initialize your list and read in the value of n followed by n lines of commands where each command will be of the types(insert, print, remove,append, sort, pop, reverse). Iterate through each command in order and perform the corresponding operation on your list.
+18. Tuples - Given an integer, n, and n space-separated integers as input, create a tuple,t, of those n integers. Then compute and print the result of hash(t).
