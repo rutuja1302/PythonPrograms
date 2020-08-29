@@ -19,3 +19,4 @@ Basic Projects in the field of python
 17. Lists Commands- Initialize your list and read in the value of n followed by n lines of commands where each command will be of the types(insert, print, remove,append, sort, pop, reverse). Iterate through each command in order and perform the corresponding operation on your list.
 18. Tuples - Given an integer, n, and n space-separated integers as input, create a tuple,t, of those n integers. Then compute and print the result of hash(t).
 19. Swap Cases - You are given a string and your task is to swap cases. In other words, convert all lowercase letters to uppercase letters and vice versa.
+20. Mutations - We have seen that lists are mutable (they can be changed), and tuples are immutable (they cannot be changed). You are given an immutable string, and you want to make changes to it. For example, Given i/p string: Food, Change string[0]='G', o/p: Good.
