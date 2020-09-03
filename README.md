@@ -21,3 +21,4 @@ Basic Projects in the field of python
 19. Swap Cases - You are given a string and your task is to swap cases. In other words, convert all lowercase letters to uppercase letters and vice versa.
 20. Mutations - We have seen that lists are mutable (they can be changed), and tuples are immutable (they cannot be changed). You are given an immutable string, and you want to make changes to it. For example, Given i/p string: Food, Change string[0]='G', o/p: Good.
 21. Find a String - User input will be a string & a substring. You have to print the number of times that the substring occurs in the given string. String traversal will take place from left to right.
+22. Pig Latin - A secret language formed from english by transferring the initial consonant to the end of the word and 'ay' is affixed to it. If the word starts with an vowel then 'way' is affixed at the end of the word. Eg: food becomes oodfay & ice becomes iceway.
