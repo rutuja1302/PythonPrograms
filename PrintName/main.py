@@ -3,6 +3,6 @@
 name = input("Enter your name ")
 
 if len(name)>=3:
-    print("Hello "+name+", how are you?")
+    print("Hello "+name+", How are you?")
 else:
-    print("Invalid name")
+    print("Invalid Name")
