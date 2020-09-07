@@ -1,10 +1,16 @@
-#First python program to check online compiler & indentation
 # Program - Prime Number
 #I/p - Integer number  
 #o/p - Prime or not
 
-num = int(input("Enter a number "))
-if num%2==0:
-    print("Not a prime number")
+myNum = int(input("Enter a number "))
+
+count = 0;
+
+for i in range(1,myNum+1):
+    if myNum%i == 0:
+        count += 1
+
+if count==2:
+    print("Prime Number")
 else:
-    print("Prime number")
+    print("Not a Prime Number")
