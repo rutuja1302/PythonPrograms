@@ -23,3 +23,4 @@ Basic Projects in the field of python
 21. Find a String - User input will be a string & a substring. You have to print the number of times that the substring occurs in the given string. String traversal will take place from left to right.
 22. Pig Latin - A secret language formed from english by transferring the initial consonant to the end of the word and 'ay' is affixed to it. If the word starts with an vowel then 'way' is affixed at the end of the word. Eg: food becomes oodfay & ice becomes iceway.
 23. Password Generator - This program will take password length as an input and provide a new password with random alphabets, numbers, special characters combination.
+24. Credit Card Validator - Takes in a credit card number from a common credit card vendor(Visa, MasterCard, American Express, Discoverer) & validates it to make sure that it is a valid number(Luhn's algorithm).
