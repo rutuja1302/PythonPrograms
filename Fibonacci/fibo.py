@@ -8,7 +8,7 @@ ft = 0
 st = 1
 sum = 0
 
-#print remaining sequence
+#print the sequence
 for i in range(0,n):
   sum = ft + sum
   print(sum,end=" ")
