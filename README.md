@@ -25,3 +25,4 @@ Basic Projects in the field of python
 23. Password Generator - This program will take password length as an input and provide a new password with random alphabets, numbers, special characters combination.
 24. Credit Card Validator - Takes in a credit card number from a common credit card vendor(Visa, MasterCard, American Express, Discoverer) & validates it to make sure that it is a valid number(Luhn's algorithm).
 25. Fibonacci Sequence - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+26. Harmonic Number - Take a number N as input, ensure N != 0, compute 1+1/2+1/3+...+1/N & print the Nth Harmonic value.
