@@ -27,3 +27,4 @@ Basic Projects in the field of python
 25. Fibonacci Sequence - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 26. Harmonic Number - Take a number N as input, ensure N != 0, compute 1+1/2+1/3+...+1/N & print the Nth Harmonic value.
 27. Pangrams - Pangrams are sentences constructed by using every letter of the alphabet atleast once. Given a string as an input, determine whether it is a pangram string or not.
+28. Designer Door Mat - Mr. Vincent works in a door mat manufacturing company. One day, he designed a new door mat with the following specifications: Mat size must be N X M(N is an odd natural number, and M is 3 times N), The design should have 'WELCOME' written in the center, The design pattern should only use |, . and - characters.
