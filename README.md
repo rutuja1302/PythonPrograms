@@ -32,3 +32,4 @@ Basic Projects in the field of python
 30. Hangman Game - This is version of the classic letter guessing game called Hangman. User will be shown a set of blank letters that match a word and user have to guess what these letters are to reveal the hidden word. If the user guesses a wrong letter then the program hangs the man otherwise the user wins!
 31. Fortune Cookie teller - This program will simply tell user's fortune for the day. These fortunes will be stored in an array of Strings, use random class to generate a random number.
 32. Text Wrap - You are given a string S and width w.Your task is to wrap the string into a paragraph of width w.
+33. Capitalize - You are asked to ensure that the first and last names of people begin with a capital letter in their passports. For example, alison heck should be capitalised correctly as Alison Heck.
