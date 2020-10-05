@@ -33,3 +33,4 @@ Basic Projects in the field of python
 31. Fortune Cookie teller - This program will simply tell user's fortune for the day. These fortunes will be stored in an array of Strings, use random class to generate a random number.
 32. Text Wrap - You are given a string S and width w.Your task is to wrap the string into a paragraph of width w.
 33. Capitalize - You are asked to ensure that the first and last names of people begin with a capital letter in their passports. For example, alison heck should be capitalised correctly as Alison Heck.
+34. Alphabet Rangoli - You are given an integer, N. Your task is to print an alphabet rangoli of size . (Rangoli is a form of Indian folk art based on creation of patterns.)
