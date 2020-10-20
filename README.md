@@ -38,3 +38,5 @@ Basic Projects in the field of python
 36. Unit Converter(temp, length, mass, angle)- Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to & then the value. The program will then make the conversion.
 37. Power of 2 - This program takes a command line argumemt N and prints the table of the powers of 2 that are less than or equal to 2^N. Take power value N as an input and print the power table as an input. 
 38. Prime Factorization Calculator - This interactive program will take a number N from the user and return all the prime factors of that number.
+39. Phone a friend - Given n names and phone numbers, assemble a phone book that maps friends' names to their respective phone numbers. You will then be given an unknown number of names to query your phone book for. For each name queried, print the associated entry from your phone book on a new line in the form name=phoneNumber; if an entry for is not found, print Not found instead.
+Note: Your phone book should be a Dictionary/Map/HashMap data structure.
