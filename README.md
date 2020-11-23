@@ -40,3 +40,4 @@ Basic Projects in the field of python
 38. Prime Factorization Calculator - This interactive program will take a number N from the user and return all the prime factors of that number.
 39. Phone a friend - Given n names and phone numbers, assemble a phone book that maps friends' names to their respective phone numbers. You will then be given an unknown number of names to query your phone book for. For each name queried, print the associated entry from your phone book on a new line in the form name=phoneNumber; if an entry for is not found, print Not found instead.
 Note: Your phone book should be a Dictionary/Map/HashMap data structure.
+40. Large Small DIfference - Write a program to return the difference between the largest and smallest numbers from an array of positive integers.(TechMahindra'20)
